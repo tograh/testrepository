@@ -13,4 +13,6 @@ This is a test image:
 ![Test Image 9](images/3DChoropleth.png)
 ![TestImage10](images/testimage.png)
 
+[Test link](doc/testdoc.pdf)
+
 Done.
