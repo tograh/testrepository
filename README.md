@@ -10,5 +10,6 @@ This is a test image:
 ![Test Image 6](master/3DChoropleth.png)
 ![Test Image 7](https://github.com/tograh/testrepository/master/3DChoropleth.png)
 ![Test Image 8](https://raw.githubusercontent.com/tograh/testrepository/master/3DChoropleth.png)
+![Test Image 9](images/3DChoropleth.png)
 
 Done.
